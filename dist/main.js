@@ -1,0 +1,1 @@
+(()=>{"use strict";({setH1(){console.log("h1")}})()})();
