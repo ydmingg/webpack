@@ -1,6 +1,6 @@
 {
   "name": "webpack",
-  "version": "1.0.0",
+  "version": "1.0.101",
   "main": "index.js",
   "repository": "https://github.com/ydmingg/webpack.git",
   "author": "ydming <xm95zz@gmail.com>",

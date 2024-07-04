@@ -1,0 +1,7 @@
+# ignore floder
+node_modules
+dist
+
+
+# ignore files
+yarn.lock
